@@ -1,0 +1,22 @@
+{
+  "name": "@moriachi/my-test-package",
+  "version": "1.0.0",
+  "description": "for Tea testnet package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoriArchi/tea-test.git"
+  },
+  "author": "mor1arch1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoriArchi/tea-test/issues"
+  },
+  "homepage": "https://github.com/MoriArchi/tea-test#readme",
+  "dependencies": {
+    "@moriarchi/test": "^1.0.0"
+  }
+}
